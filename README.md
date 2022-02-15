@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi, I'm Samir there 👋😄
+
+...js
+const samir{
+    pronouns: "he" | "him",
+    code: [ PHP ,JavaScript, Typescript, HMTL, CSS],
+    tools: [Laravel, Symfony, Node, Docker, PostgreSql, Mongo DB, Devops ]
+ }
+...
+you can find me 👨‍💻: 
+_ [GitHub](https://github.com/samir93bj)
+_ [Facebook](https://www.facebook.com/samir.mahmud2)
+_ [Gmail](samir93bj@gmail.com)
+
 
 <!--
 **samir93bj/samir93bj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
