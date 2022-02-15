@@ -1,16 +1,18 @@
 ### Hi, I'm Samir there 👋😄
 
-...js
+```js
 const samir{
     pronouns: "he" | "him",
     code: [ PHP ,JavaScript, Typescript, HMTL, CSS],
-    tools: [Laravel, Symfony, Node, Docker, PostgreSql, Mongo DB, Devops ]
+    tools: [Laravel, Symfony, Node, Docker ]
+    backend: [MySql, PostgreSql, SqlServer, MongoDB ]
  }
-...
+```
 you can find me 👨‍💻: 
-_ [GitHub](https://github.com/samir93bj)
-_ [Facebook](https://www.facebook.com/samir.mahmud2)
-_ [Gmail](samir93bj@gmail.com)
+- [GitHub](https://github.com/samir93bj)
+- [Facebook](https://www.facebook.com/samir.mahmud2)
+- [Gmail](samir93bj@gmail.com)
+- [Instagram](https://www.instagram.com/samirmahmud10)
 
 
 <!--
