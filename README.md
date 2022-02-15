@@ -1,4 +1,4 @@
-### Hi, I'm Samir there 👋😄
+### Hi, I'm Samir 👋😄
 
 ```js
 const samir{
