@@ -3,7 +3,7 @@
 ```js
 const samir{
     pronouns: "he" | "him",
-    code: [ PHP ,JavaScript, Typescript, HMTL, CSS],
+    code: [ Node js ,PHP ,JavaScript, Typescript, HMTL, CSS],
     tools: [Laravel, Symfony, Node, Docker ],
     backend: [MySql, PostgreSql, SqlServer, MongoDB ]
  }
