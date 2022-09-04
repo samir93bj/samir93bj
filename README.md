@@ -3,8 +3,8 @@
 ```js
 const samir{
     pronouns: "he" | "him",
-    code: [ Node js ,PHP ,JavaScript, Typescript,
-    tools: [ Node, Docker, Express ],
+    code: [ NodeJs ,PHP ,JavaScript, Typescript ],
+    tools: [ Node, Express, Docker ],
     database: [MySql, PostgreSql, SqlServer, MongoDB ]
  }
 ```
