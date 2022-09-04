@@ -3,9 +3,9 @@
 ```js
 const samir{
     pronouns: "he" | "him",
-    code: [ Node js ,PHP ,JavaScript, Typescript, HMTL, CSS],
-    tools: [Laravel, Symfony, Node, Docker ],
-    backend: [MySql, PostgreSql, SqlServer, MongoDB ]
+    code: [ Node js ,PHP ,JavaScript, Typescript,
+    tools: [ Node, Docker, Express ],
+    database: [MySql, PostgreSql, SqlServer, MongoDB ]
  }
 ```
 you can find me 👨‍💻: 
