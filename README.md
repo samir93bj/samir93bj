@@ -4,7 +4,7 @@
 const samir{
     pronouns: "he" | "him",
     code: [ NodeJs ,PHP ,JavaScript, Typescript ],
-    tools: [ Node, Express, Docker ],
+    tools: [ Node, Express, Docker, Laravel ],
     database: [MySql, PostgreSql, SqlServer, MongoDB ]
  }
 ```
