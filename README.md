@@ -1,7 +1,7 @@
 ### Hi, I'm Samir 👋😄
 
 ```js
-const samir{
+const samir = {
     pronouns: "he" | "him",
     code: [ NodeJs ,PHP ,JavaScript, Typescript ],
     tools: [ Node, Express, Docker, Laravel ],
